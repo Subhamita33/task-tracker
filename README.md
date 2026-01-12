@@ -26,6 +26,7 @@ A simple and professional Task Tracker web application built using HTML, CSS, an
 
 ## Live Demo
 The application is deployed using GitHub Pages.
+https://subhamita33.github.io/task-tracker/
 
 ## Future Enhancements
 - Edit and delete tasks
